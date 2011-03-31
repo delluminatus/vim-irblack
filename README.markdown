@@ -1,3 +1,9 @@
+Fork of vim-irblack theme, changed so that it works with transparent terminals when using guicolorscheme. (Specifically it retains the terminal's background, even if said background is transparency)
+
+
+---
+### Original Readme
+
 This is a version of Infinite Red's vim theme (http://blog.infinitered.com/entries/show/8) packaged to work with Tim Pope's pathogen plugin (http://www.vim.org/scripts/script.php?script_id=2332).
 
 To use it (assuming you're using pathogen):
